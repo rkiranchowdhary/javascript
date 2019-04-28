@@ -1,3 +1,3 @@
-# javascript
+# Javascript
 
-**Javascript tutorials for learning
+**Javascript tutorials for learning**
